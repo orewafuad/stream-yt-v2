@@ -16,13 +16,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@distube/ytdl-core": "^4.14.4",
+    "@distube/ytdl-core": "^4.15.1",
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "node-fetch": "^3.3.2",
     "nodemon": "^3.1.4",
     "youtubei.js": "^10.5.0",
-    "@ybd-project/ytdl-core": "^5.1.8",
+    "@ybd-project/ytdl-core": "^6.0.5",
     "bgutils-js": "^2.1.0",
     "jsdom": "^25.0.0"
   }
